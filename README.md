@@ -11,8 +11,7 @@ Google Authenticator, Twilio SMS verification.
 PHPMailer is a code library to send emails safely and easily via PHP code from a web server.
 
 ### PHPGangsta
-PHPMailer is a code library to send emails safely and easily via PHP code from a web server.
-
+PHPGangsta is a class that can be used to interact with the Google Authenticator mobile app for 2-factor-authentication. This class can generate secrets, generate codes, validate codes and present a QR-Code for scanning the secret. It implements TOTP according to RFC6238
 ## Set-Up
 
 Download the folder and if you have composer, run
